@@ -1,4 +1,4 @@
-<img align="right" width="180" src="" alt="Abu Shyed Hemel" />
+<!-- <img align="right" width="180" src="" alt="Abu Shyed Hemel" /> -->
 
 # 👋 Hi, I'm Hemel
 
