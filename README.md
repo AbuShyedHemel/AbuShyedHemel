@@ -1,4 +1,4 @@
-<img align="right" width="180" src="https://avatars.githubusercontent.com/u/50671938?v=4" alt="Abu Shyed Hemel" />
+<img align="right" width="180" src="" alt="Abu Shyed Hemel" />
 
 # 👋 Hi, I'm Hemel
 
