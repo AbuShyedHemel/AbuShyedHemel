@@ -45,29 +45,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎧 [Remote Volume Controller](https://github.com/AbuShyedHemel/remote-volume-controller)
-Control your computer's audio and power state from any device on your local network.
-`Next.js 16` · `React 19` · `TypeScript` · `Tailwind 4` · `TanStack Query`
-
-✨ Interactive SVG volume dial with optimistic updates
-⚡ Cross-platform system layer — AppleScript on macOS, PowerShell on Windows
-📱 Touch-optimised, works from phone or tablet over WiFi
-
-### 💬 [Realtime Chat App](https://github.com/AbuShyedHemel/realtime-chat-app)
-Realtime messaging backend with presence and AI-assisted replies.
-`TypeScript` · `Socket.IO` · `Redis` · `MongoDB` · `Express`
-
-⚡ Socket.IO transport with Redis pub/sub for presence
-🔐 JWT + bcrypt authentication
-🤖 Integrated LLM APIs for assistant-style responses
-
-### 🌐 [Portfolio](https://github.com/AbuShyedHemel/portfolio)
-My personal site and project index — live at **[hemel.vercel.app](https://hemel.vercel.app)**
-`Next.js` · `TypeScript`
-
----
 
 ## 📊 GitHub Stats
 
