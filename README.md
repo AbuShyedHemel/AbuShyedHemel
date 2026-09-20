@@ -20,7 +20,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tanstackstart](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5269c5FYQB4h--IHCJhVTkH0Qcgzjj-bm59_cbG_kg&s=10)
 
 
 **Styling & UI**
